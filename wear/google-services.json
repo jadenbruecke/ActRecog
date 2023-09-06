@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513960614892",
+    "project_id": "actrecog",
+    "storage_bucket": "actrecog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513960614892:android:32fd433304de28e50abec9",
+        "android_client_info": {
+          "package_name": "com.example.actrecog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513960614892-ca6dka50k622mim4tsulm4jt4iq9goic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOLhLAT9lND2ADpY1CDPhjaTbWn3vxMWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513960614892-ca6dka50k622mim4tsulm4jt4iq9goic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
